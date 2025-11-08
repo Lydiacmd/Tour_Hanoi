@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Turtle](https://img.shields.io/badge/Library-Turtle-green?logo=python)
+![Tkinter](https://img.shields.io/badge/Library-Tkinter-yellow?logo=windowsterminal)
+![Mode](https://img.shields.io/badge/Modes-Solo%20%7C%20Multijoueur-orange)
+![Type](https://img.shields.io/badge/Type-Jeu%20Interactif-lightgrey)
+
 # 🎮 Jeu des Tours de Hanoï
 
 ## 🧩 Présentation
